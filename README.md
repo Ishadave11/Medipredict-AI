@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 MediPredict AI
 
 AI-Powered Clinical Decision Support System for Diabetes & Symptom-Based Health Screening
@@ -149,3 +150,7 @@ Project/
 ├── patients.db
 │
 └── README.md
+=======
+# Medipredict-AI
+🏥 MediPredict AI — AI-Powered Clinical Decision Support System for Diabetes Prediction, Symptom Analysis, and Healthcare Analytics using Machine Learning &amp; Gemini AI.
+>>>>>>> 4a8381cf0f9604aa63ee59b2e2380380f64ad02f
